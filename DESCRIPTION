@@ -1,9 +1,9 @@
 Package: fletcher
 Type: Package
-Title: Fletcher Checksums (16, 32, and 64 Bit)
+Title: Compute Fletcher Checksums (16, 32, and 64 Bit)
 Version: 0.1.0
 Authors@R: person("Christos", "Longros", email = "chris.longros@gmail.com",
-    role = c("aut", "cre"))
+    role = c("aut", "cre"), comment = c(ORCID = "0009-0001-2717-0857"))
 Description: Computes Fletcher's position-dependent checksum in 16-, 32-, and
     64-bit widths. Fletcher's checksum, devised by John G. Fletcher, provides
     error-detection properties approaching a cyclic redundancy check at lower
